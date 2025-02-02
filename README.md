@@ -98,7 +98,6 @@
 ## Useful Tools
 
 * [Antidote](https://www.antidote.info) - The corrector analyzes your text and flags any detections.
-* [Antidote](https://www.antidote.info) - The corrector analyzes your text and flags any detections.
 * [Awesome Screenshot: Screen Video Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - Screen Capture full page screenshot and recorder for screencast.
 * [Capture to a Gif](https://chrome.google.com/webstore/detail/capture-to-a-gif/eapecadlmfblmnfnojebefkbginhggeh) - Record content of pages to an animated gif picture from browser.
 * [Canva](https://canva.com) - A graphic design platform that allows you to create social media graphics, and other visual content.
